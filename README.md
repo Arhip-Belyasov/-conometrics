@@ -1,2 +1,2 @@
-# -conometrics
+# Econometrics
 Еconometrics
